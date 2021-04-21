@@ -1,0 +1,11 @@
+A { color: #3333FF; text-decoration: none; }
+
+A:hover { text-decoration: underline; }	
+
+.sectitle { color: #000000; font-family: Verdana, Arial, sans-serif; font-size: 125%; line-height: 160%; text-decoration: underline; }
+
+.content { font-family: Verdana, Arial, sans-serif; font-size: 82%; line-height: 140%; }
+
+.copyright { font-family: Verdana, Arial, sans-serif; font-size: 74%; }
+
+.side { font-family: Verdana, Arial, sans-serif; font-size: 74%; color: #000000; }
